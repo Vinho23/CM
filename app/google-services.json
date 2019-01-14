@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082615649104",
+    "firebase_url": "https://firecast-app-e62ec.firebaseio.com",
+    "project_id": "firecast-app-e62ec",
+    "storage_bucket": "firecast-app-e62ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082615649104:android:30fa2349b8ad5b56",
+        "android_client_info": {
+          "package_name": "trabalhopratico.cm.edjd.ipca.ipcaloja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082615649104-6399kdh48b23e6t9ot07ee4p4n6qh2l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trabalhopratico.cm.edjd.ipca.ipcaloja",
+            "certificate_hash": "145092aac7edd3cccfc0992752c0de2192f30f6b"
+          }
+        },
+        {
+          "client_id": "1082615649104-pg622u352f4n5vqan0r72bsbmf0uf12n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4w_xGDfjKVf3iPmckLLnr_XVo1Kfaha0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082615649104-pg622u352f4n5vqan0r72bsbmf0uf12n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

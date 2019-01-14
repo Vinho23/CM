@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IPCAloja</string>
+    <string name="Solo">Singular</string>
+    <string name="Shared">Partilhado</string>
+    <string-array name="SpinnerOpts">
+        <item>@string/Solo</item>
+        <item>@string/Shared</item>
+    </string-array>
+    <string name="Women">Feminino</string>
+    <string name="Man">Masculino</string>
+    <string-array name="SpinnerRegistarOpts">
+        <item>@string/Women</item>
+        <item>@string/Man</item>
+    </string-array>
+</resources>
