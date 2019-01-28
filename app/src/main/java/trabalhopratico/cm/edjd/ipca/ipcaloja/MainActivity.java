@@ -1,5 +1,6 @@
 package trabalhopratico.cm.edjd.ipca.ipcaloja;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -48,6 +49,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void onRegistarActivity(View view) {
         Intent intent = new Intent(this, RegistarActivity.class);
+        startActivity(intent);
+    }
+
+    public void onLoginActivity(View view) {
+        Intent intent = new Intent(this, LoginActivity.class);
         startActivity(intent);
     }
 }

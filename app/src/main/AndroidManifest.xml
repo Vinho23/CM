@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".ProcuraActivity" />
         <activity android:name=".PesquisarActivity" />
-        <activity android:name=".RegistarActivity"></activity>
+        <activity android:name=".RegistarActivity" />
+        <activity android:name=".LoginActivity"></activity>
     </application>
 
 </manifest>
